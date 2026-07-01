@@ -5,7 +5,7 @@
       "title": "Essence Mascara Lash Princess",
       "price": 9.99,
       "images": [
-        ".\\assets\\images\\beauty-essence-mascara-lash-princess-1.webp"
+        "./assets/images/.\\assets\\images\\beauty-essence-mascara-lash-princess-1.webp"
       ]
     },
     {
@@ -13,7 +13,7 @@
       "title": "Eyeshadow Palette with Mirror",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+        "./assets/images/product-images-beauty-eyeshadow-palette-with-mirror-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
     },
@@ -22,7 +22,7 @@
       "title": "Powder Canister",
       "price": 14.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+        "./assets/images/product-images-beauty-powder-canister-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
     },
@@ -31,7 +31,7 @@
       "title": "Red Lipstick",
       "price": 12.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+        "./assets/images/product-images-beauty-red-lipstick-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
     },
@@ -40,7 +40,7 @@
       "title": "Red Nail Polish",
       "price": 8.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+        "./assets/images/product-images-beauty-red-nail-polish-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
     },
@@ -49,7 +49,7 @@
       "title": "Calvin Klein CK One",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp"
+        "./assets/images/product-images-fragrances-calvin-klein-ck-one-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
     },
@@ -58,7 +58,7 @@
       "title": "Chanel Coco Noir Eau De",
       "price": 129.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp"
+        "./assets/images/product-images-fragrances-chanel-coco-noir-eau-de-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
     },
@@ -67,7 +67,7 @@
       "title": "Dior J'adore",
       "price": 89.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp"
+        "./assets/images/product-images-fragrances-dior-j'adore-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
     },
@@ -76,7 +76,7 @@
       "title": "Dolce Shine Eau de",
       "price": 69.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp"
+        "./assets/images/product-images-fragrances-dolce-shine-eau-de-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
     },
@@ -85,7 +85,7 @@
       "title": "Gucci Bloom Eau de",
       "price": 79.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp"
+        "./assets/images/product-images-fragrances-gucci-bloom-eau-de-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
     },
@@ -94,7 +94,7 @@
       "title": "Annibale Colombo Bed",
       "price": 1899.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+        "./assets/images/product-images-furniture-annibale-colombo-bed-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
     },
@@ -103,7 +103,7 @@
       "title": "Annibale Colombo Sofa",
       "price": 2499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp"
+        "./assets/images/product-images-furniture-annibale-colombo-sofa-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
     },
@@ -112,7 +112,7 @@
       "title": "Bedside Table African Cherry",
       "price": 299.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+        "./assets/images/product-images-furniture-bedside-table-african-cherry-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
     },
@@ -121,7 +121,7 @@
       "title": "Knoll Saarinen Executive Conference Chair",
       "price": 499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp"
+        "./assets/images/product-images-furniture-knoll-saarinen-executive-conference-chair-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
     },
@@ -130,7 +130,7 @@
       "title": "Wooden Bathroom Sink With Mirror",
       "price": 799.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp"
+        "./assets/images/product-images-furniture-wooden-bathroom-sink-with-mirror-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp"
     },
@@ -139,7 +139,7 @@
       "title": "Apple",
       "price": 1.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+        "./assets/images/product-images-groceries-apple-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
     },
@@ -148,7 +148,7 @@
       "title": "Beef Steak",
       "price": 12.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+        "./assets/images/product-images-groceries-beef-steak-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
     },
@@ -157,7 +157,7 @@
       "title": "Cat Food",
       "price": 8.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+        "./assets/images/product-images-groceries-cat-food-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
     },
@@ -166,7 +166,7 @@
       "title": "Chicken Meat",
       "price": 9.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp"
+        "./assets/images/product-images-groceries-chicken-meat-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
     },
@@ -175,7 +175,7 @@
       "title": "Cooking Oil",
       "price": 4.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+        "./assets/images/product-images-groceries-cooking-oil-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
     },
@@ -184,7 +184,7 @@
       "title": "Cucumber",
       "price": 1.49,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+        "./assets/images/product-images-groceries-cucumber-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp"
     },
@@ -193,7 +193,7 @@
       "title": "Dog Food",
       "price": 10.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+        "./assets/images/product-images-groceries-dog-food-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp"
     },
@@ -202,7 +202,7 @@
       "title": "Eggs",
       "price": 2.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+        "./assets/images/product-images-groceries-eggs-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
     },
@@ -211,7 +211,7 @@
       "title": "Fish Steak",
       "price": 14.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+        "./assets/images/product-images-groceries-fish-steak-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
     },
@@ -220,7 +220,7 @@
       "title": "Green Bell Pepper",
       "price": 1.29,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+        "./assets/images/product-images-groceries-green-bell-pepper-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
     },
@@ -229,7 +229,7 @@
       "title": "Green Chili Pepper",
       "price": 0.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+        "./assets/images/product-images-groceries-green-chili-pepper-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp"
     },
@@ -238,7 +238,7 @@
       "title": "Honey Jar",
       "price": 6.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+        "./assets/images/product-images-groceries-honey-jar-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp"
     },
@@ -247,7 +247,7 @@
       "title": "Ice Cream",
       "price": 5.49,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp"
+        "./assets/images/product-images-groceries-ice-cream-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp"
     },
@@ -256,7 +256,7 @@
       "title": "Juice",
       "price": 3.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+        "./assets/images/product-images-groceries-juice-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
     },
@@ -265,7 +265,7 @@
       "title": "Kiwi",
       "price": 2.49,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+        "./assets/images/product-images-groceries-kiwi-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
     },
@@ -274,7 +274,7 @@
       "title": "Lemon",
       "price": 0.79,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp"
+        "./assets/images/product-images-groceries-lemon-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/lemon/thumbnail.webp"
     },
@@ -283,7 +283,7 @@
       "title": "Milk",
       "price": 3.49,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp"
+        "./assets/images/product-images-groceries-milk-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/milk/thumbnail.webp"
     },
@@ -292,7 +292,7 @@
       "title": "Mulberry",
       "price": 4.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp"
+        "./assets/images/product-images-groceries-mulberry-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/mulberry/thumbnail.webp"
     },
@@ -301,7 +301,7 @@
       "title": "Nescafe Coffee",
       "price": 7.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp"
+        "./assets/images/product-images-groceries-nescafe-coffee-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/thumbnail.webp"
     },
@@ -310,7 +310,7 @@
       "title": "Potatoes",
       "price": 2.29,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp"
+        "./assets/images/product-images-groceries-potatoes-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/potatoes/thumbnail.webp"
     },
@@ -319,7 +319,7 @@
       "title": "Protein Powder",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp"
+        "./assets/images/product-images-groceries-protein-powder-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/thumbnail.webp"
     },
@@ -328,7 +328,7 @@
       "title": "Red Onions",
       "price": 1.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp"
+        "./assets/images/product-images-groceries-red-onions-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/red-onions/thumbnail.webp"
     },
@@ -337,7 +337,7 @@
       "title": "Rice",
       "price": 5.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp"
+        "./assets/images/product-images-groceries-rice-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/rice/thumbnail.webp"
     },
@@ -346,7 +346,7 @@
       "title": "Soft Drinks",
       "price": 1.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp"
+        "./assets/images/product-images-groceries-soft-drinks-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp"
     },
@@ -355,7 +355,7 @@
       "title": "Strawberry",
       "price": 3.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp"
+        "./assets/images/product-images-groceries-strawberry-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/strawberry/thumbnail.webp"
     },
@@ -364,7 +364,7 @@
       "title": "Tissue Paper Box",
       "price": 2.49,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp"
+        "./assets/images/product-images-groceries-tissue-paper-box-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/thumbnail.webp"
     },
@@ -373,7 +373,7 @@
       "title": "Water",
       "price": 0.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/groceries/water/1.webp"
+        "./assets/images/product-images-groceries-water-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp"
     },
@@ -382,7 +382,7 @@
       "title": "Decoration Swing",
       "price": 59.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp"
+        "./assets/images/product-images-home-decoration-decoration-swing-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp"
     },
@@ -391,7 +391,7 @@
       "title": "Family Tree Photo Frame",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp"
+        "./assets/images/product-images-home-decoration-family-tree-photo-frame-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp"
     },
@@ -400,7 +400,7 @@
       "title": "House Showpiece Plant",
       "price": 39.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp"
+        "./assets/images/product-images-home-decoration-house-showpiece-plant-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp"
     },
@@ -409,7 +409,7 @@
       "title": "Plant Pot",
       "price": 14.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp"
+        "./assets/images/product-images-home-decoration-plant-pot-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp"
     },
@@ -418,7 +418,7 @@
       "title": "Table Lamp",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp"
+        "./assets/images/product-images-home-decoration-table-lamp-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp"
     },
@@ -427,7 +427,7 @@
       "title": "Bamboo Spatula",
       "price": 7.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp"
+        "./assets/images/product-images-kitchen-accessories-bamboo-spatula-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp"
     },
@@ -436,7 +436,7 @@
       "title": "Black Aluminium Cup",
       "price": 5.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp"
+        "./assets/images/product-images-kitchen-accessories-black-aluminium-cup-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp"
     },
@@ -445,7 +445,7 @@
       "title": "Black Whisk",
       "price": 9.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp"
+        "./assets/images/product-images-kitchen-accessories-black-whisk-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
     },
@@ -454,7 +454,7 @@
       "title": "Boxed Blender",
       "price": 39.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp"
+        "./assets/images/product-images-kitchen-accessories-boxed-blender-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp"
     },
@@ -463,7 +463,7 @@
       "title": "Carbon Steel Wok",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp"
+        "./assets/images/product-images-kitchen-accessories-carbon-steel-wok-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp"
     },
@@ -472,7 +472,7 @@
       "title": "Chopping Board",
       "price": 12.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/1.webp"
+        "./assets/images/product-images-kitchen-accessories-chopping-board-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp"
     },
@@ -481,7 +481,7 @@
       "title": "Citrus Squeezer Yellow",
       "price": 8.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
+        "./assets/images/product-images-kitchen-accessories-citrus-squeezer-yellow-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp"
     },
@@ -490,7 +490,7 @@
       "title": "Egg Slicer",
       "price": 6.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/1.webp"
+        "./assets/images/product-images-kitchen-accessories-egg-slicer-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp"
     },
@@ -499,7 +499,7 @@
       "title": "Electric Stove",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/1.webp"
+        "./assets/images/product-images-kitchen-accessories-electric-stove-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp"
     },
@@ -508,7 +508,7 @@
       "title": "Fine Mesh Strainer",
       "price": 9.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp"
+        "./assets/images/product-images-kitchen-accessories-fine-mesh-strainer-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp"
     },
@@ -517,7 +517,7 @@
       "title": "Fork",
       "price": 3.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp"
+        "./assets/images/product-images-kitchen-accessories-fork-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/thumbnail.webp"
     },
@@ -526,7 +526,7 @@
       "title": "Glass",
       "price": 4.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/1.webp"
+        "./assets/images/product-images-kitchen-accessories-glass-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/thumbnail.webp"
     },
@@ -535,7 +535,7 @@
       "title": "Grater Black",
       "price": 10.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/1.webp"
+        "./assets/images/product-images-kitchen-accessories-grater-black-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/thumbnail.webp"
     },
@@ -544,7 +544,7 @@
       "title": "Hand Blender",
       "price": 34.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/1.webp"
+        "./assets/images/product-images-kitchen-accessories-hand-blender-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/thumbnail.webp"
     },
@@ -553,7 +553,7 @@
       "title": "Ice Cube Tray",
       "price": 5.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/1.webp"
+        "./assets/images/product-images-kitchen-accessories-ice-cube-tray-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/thumbnail.webp"
     },
@@ -562,7 +562,7 @@
       "title": "Kitchen Sieve",
       "price": 7.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/1.webp"
+        "./assets/images/product-images-kitchen-accessories-kitchen-sieve-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/thumbnail.webp"
     },
@@ -571,7 +571,7 @@
       "title": "Knife",
       "price": 14.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/1.webp"
+        "./assets/images/product-images-kitchen-accessories-knife-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/thumbnail.webp"
     },
@@ -580,7 +580,7 @@
       "title": "Lunch Box",
       "price": 12.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/1.webp"
+        "./assets/images/product-images-kitchen-accessories-lunch-box-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp"
     },
@@ -589,7 +589,7 @@
       "title": "Microwave Oven",
       "price": 89.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp"
+        "./assets/images/product-images-kitchen-accessories-microwave-oven-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/thumbnail.webp"
     },
@@ -598,7 +598,7 @@
       "title": "Mug Tree Stand",
       "price": 15.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp"
+        "./assets/images/product-images-kitchen-accessories-mug-tree-stand-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/thumbnail.webp"
     },
@@ -607,7 +607,7 @@
       "title": "Pan",
       "price": 24.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/1.webp"
+        "./assets/images/product-images-kitchen-accessories-pan-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/thumbnail.webp"
     },
@@ -616,7 +616,7 @@
       "title": "Plate",
       "price": 3.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/1.webp"
+        "./assets/images/product-images-kitchen-accessories-plate-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/thumbnail.webp"
     },
@@ -625,7 +625,7 @@
       "title": "Red Tongs",
       "price": 6.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/1.webp"
+        "./assets/images/product-images-kitchen-accessories-red-tongs-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/thumbnail.webp"
     },
@@ -634,7 +634,7 @@
       "title": "Silver Pot With Glass Cap",
       "price": 39.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp"
+        "./assets/images/product-images-kitchen-accessories-silver-pot-with-glass-cap-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/thumbnail.webp"
     },
@@ -643,7 +643,7 @@
       "title": "Slotted Turner",
       "price": 8.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/1.webp"
+        "./assets/images/product-images-kitchen-accessories-slotted-turner-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/thumbnail.webp"
     },
@@ -652,7 +652,7 @@
       "title": "Spice Rack",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/1.webp"
+        "./assets/images/product-images-kitchen-accessories-spice-rack-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/thumbnail.webp"
     },
@@ -661,7 +661,7 @@
       "title": "Spoon",
       "price": 4.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/1.webp"
+        "./assets/images/product-images-kitchen-accessories-spoon-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/thumbnail.webp"
     },
@@ -670,7 +670,7 @@
       "title": "Tray",
       "price": 16.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/1.webp"
+        "./assets/images/product-images-kitchen-accessories-tray-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/thumbnail.webp"
     },
@@ -679,7 +679,7 @@
       "title": "Wooden Rolling Pin",
       "price": 11.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/1.webp"
+        "./assets/images/product-images-kitchen-accessories-wooden-rolling-pin-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/thumbnail.webp"
     },
@@ -688,7 +688,7 @@
       "title": "Yellow Peeler",
       "price": 5.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/1.webp"
+        "./assets/images/product-images-kitchen-accessories-yellow-peeler-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/thumbnail.webp"
     },
@@ -697,7 +697,7 @@
       "title": "Apple MacBook Pro 14 Inch Space Grey",
       "price": 1999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp"
+        "./assets/images/product-images-laptops-apple-macbook-pro-14-inch-space-grey-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp"
     },
@@ -706,7 +706,7 @@
       "title": "Asus Zenbook Pro Dual Screen Laptop",
       "price": 1799.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp"
+        "./assets/images/product-images-laptops-asus-zenbook-pro-dual-screen-laptop-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp"
     },
@@ -715,7 +715,7 @@
       "title": "Huawei Matebook X Pro",
       "price": 1399.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp"
+        "./assets/images/product-images-laptops-huawei-matebook-x-pro-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp"
     },
@@ -724,7 +724,7 @@
       "title": "Lenovo Yoga 920",
       "price": 1099.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp"
+        "./assets/images/product-images-laptops-lenovo-yoga-920-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp"
     },
@@ -733,7 +733,7 @@
       "title": "New DELL XPS 13 9300 Laptop",
       "price": 1499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp"
+        "./assets/images/product-images-laptops-new-dell-xps-13-9300-laptop-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
     },
@@ -742,7 +742,7 @@
       "title": "Blue & Black Check Shirt",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp"
+        "./assets/images/product-images-mens-shirts-blue-&-black-check-shirt-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
     },
@@ -751,7 +751,7 @@
       "title": "Gigabyte Aorus Men Tshirt",
       "price": 24.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp"
+        "./assets/images/product-images-mens-shirts-gigabyte-aorus-men-tshirt-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp"
     },
@@ -760,7 +760,7 @@
       "title": "Man Plaid Shirt",
       "price": 34.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp"
+        "./assets/images/product-images-mens-shirts-man-plaid-shirt-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp"
     },
@@ -769,7 +769,7 @@
       "title": "Man Short Sleeve Shirt",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp"
+        "./assets/images/product-images-mens-shirts-man-short-sleeve-shirt-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp"
     },
@@ -778,7 +778,7 @@
       "title": "Men Check Shirt",
       "price": 27.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp"
+        "./assets/images/product-images-mens-shirts-men-check-shirt-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp"
     },
@@ -787,7 +787,7 @@
       "title": "Nike Air Jordan 1 Red And Black",
       "price": 149.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp"
+        "./assets/images/product-images-mens-shoes-nike-air-jordan-1-red-and-black-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp"
     },
@@ -796,7 +796,7 @@
       "title": "Nike Baseball Cleats",
       "price": 79.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp"
+        "./assets/images/product-images-mens-shoes-nike-baseball-cleats-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp"
     },
@@ -805,7 +805,7 @@
       "title": "Puma Future Rider Trainers",
       "price": 89.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp"
+        "./assets/images/product-images-mens-shoes-puma-future-rider-trainers-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp"
     },
@@ -814,7 +814,7 @@
       "title": "Sports Sneakers Off White & Red",
       "price": 119.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp"
+        "./assets/images/product-images-mens-shoes-sports-sneakers-off-white-&-red-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
     },
@@ -823,7 +823,7 @@
       "title": "Sports Sneakers Off White Red",
       "price": 109.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp"
+        "./assets/images/product-images-mens-shoes-sports-sneakers-off-white-red-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp"
     },
@@ -832,7 +832,7 @@
       "title": "Brown Leather Belt Watch",
       "price": 89.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp"
+        "./assets/images/product-images-mens-watches-brown-leather-belt-watch-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp"
     },
@@ -841,7 +841,7 @@
       "title": "Longines Master Collection",
       "price": 1499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp"
+        "./assets/images/product-images-mens-watches-longines-master-collection-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp"
     },
@@ -850,7 +850,7 @@
       "title": "Rolex Cellini Date Black Dial",
       "price": 8999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp"
+        "./assets/images/product-images-mens-watches-rolex-cellini-date-black-dial-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp"
     },
@@ -859,7 +859,7 @@
       "title": "Rolex Cellini Moonphase",
       "price": 12999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp"
+        "./assets/images/product-images-mens-watches-rolex-cellini-moonphase-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/thumbnail.webp"
     },
@@ -868,7 +868,7 @@
       "title": "Rolex Datejust",
       "price": 10999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp"
+        "./assets/images/product-images-mens-watches-rolex-datejust-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/thumbnail.webp"
     },
@@ -877,7 +877,7 @@
       "title": "Rolex Submariner Watch",
       "price": 13999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp"
+        "./assets/images/product-images-mens-watches-rolex-submariner-watch-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp"
     },
@@ -886,7 +886,7 @@
       "title": "Amazon Echo Plus",
       "price": 99.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp"
+        "./assets/images/product-images-mobile-accessories-amazon-echo-plus-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp"
     },
@@ -895,7 +895,7 @@
       "title": "Apple Airpods",
       "price": 129.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp"
+        "./assets/images/product-images-mobile-accessories-apple-airpods-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
     },
@@ -904,7 +904,7 @@
       "title": "Apple AirPods Max Silver",
       "price": 549.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+        "./assets/images/product-images-mobile-accessories-apple-airpods-max-silver-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp"
     },
@@ -913,7 +913,7 @@
       "title": "Apple Airpower Wireless Charger",
       "price": 79.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp"
+        "./assets/images/product-images-mobile-accessories-apple-airpower-wireless-charger-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp"
     },
@@ -922,7 +922,7 @@
       "title": "Apple HomePod Mini Cosmic Grey",
       "price": 99.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
+        "./assets/images/product-images-mobile-accessories-apple-homepod-mini-cosmic-grey-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp"
     },
@@ -931,7 +931,7 @@
       "title": "Apple iPhone Charger",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp"
+        "./assets/images/product-images-mobile-accessories-apple-iphone-charger-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp"
     },
@@ -940,7 +940,7 @@
       "title": "Apple MagSafe Battery Pack",
       "price": 99.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp"
+        "./assets/images/product-images-mobile-accessories-apple-magsafe-battery-pack-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp"
     },
@@ -949,7 +949,7 @@
       "title": "Apple Watch Series 4 Gold",
       "price": 349.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp"
+        "./assets/images/product-images-mobile-accessories-apple-watch-series-4-gold-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp"
     },
@@ -958,7 +958,7 @@
       "title": "Beats Flex Wireless Earphones",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+        "./assets/images/product-images-mobile-accessories-beats-flex-wireless-earphones-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp"
     },
@@ -967,7 +967,7 @@
       "title": "iPhone 12 Silicone Case with MagSafe Plum",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp"
+        "./assets/images/product-images-mobile-accessories-iphone-12-silicone-case-with-magsafe-plum-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp"
     },
@@ -976,7 +976,7 @@
       "title": "Monopod",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp"
+        "./assets/images/product-images-mobile-accessories-monopod-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp"
     },
@@ -985,7 +985,7 @@
       "title": "Selfie Lamp with iPhone",
       "price": 14.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp"
+        "./assets/images/product-images-mobile-accessories-selfie-lamp-with-iphone-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp"
     },
@@ -994,7 +994,7 @@
       "title": "Selfie Stick Monopod",
       "price": 12.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp"
+        "./assets/images/product-images-mobile-accessories-selfie-stick-monopod-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/thumbnail.webp"
     },
@@ -1003,7 +1003,7 @@
       "title": "TV Studio Camera Pedestal",
       "price": 499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp"
+        "./assets/images/product-images-mobile-accessories-tv-studio-camera-pedestal-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/thumbnail.webp"
     },
@@ -1012,7 +1012,7 @@
       "title": "Generic Motorcycle",
       "price": 3999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/1.webp"
+        "./assets/images/product-images-motorcycle-generic-motorcycle-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp"
     },
@@ -1021,7 +1021,7 @@
       "title": "Kawasaki Z800",
       "price": 8999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp"
+        "./assets/images/product-images-motorcycle-kawasaki-z800-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp"
     },
@@ -1030,7 +1030,7 @@
       "title": "MotoGP CI.H1",
       "price": 14999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/1.webp"
+        "./assets/images/product-images-motorcycle-motogp-ci.h1-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp"
     },
@@ -1039,7 +1039,7 @@
       "title": "Scooter Motorcycle",
       "price": 2999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/1.webp"
+        "./assets/images/product-images-motorcycle-scooter-motorcycle-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp"
     },
@@ -1048,7 +1048,7 @@
       "title": "Sportbike Motorcycle",
       "price": 7499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/1.webp"
+        "./assets/images/product-images-motorcycle-sportbike-motorcycle-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp"
     },
@@ -1057,7 +1057,7 @@
       "title": "Attitude Super Leaves Hand Soap",
       "price": 8.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp"
+        "./assets/images/product-images-skin-care-attitude-super-leaves-hand-soap-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp"
     },
@@ -1066,7 +1066,7 @@
       "title": "Olay Ultra Moisture Shea Butter Body Wash",
       "price": 12.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp"
+        "./assets/images/product-images-skin-care-olay-ultra-moisture-shea-butter-body-wash-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp"
     },
@@ -1075,7 +1075,7 @@
       "title": "Vaseline Men Body and Face Lotion",
       "price": 9.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp"
+        "./assets/images/product-images-skin-care-vaseline-men-body-and-face-lotion-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp"
     },
@@ -1084,7 +1084,7 @@
       "title": "iPhone 5s",
       "price": 199.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp"
+        "./assets/images/product-images-smartphones-iphone-5s-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/thumbnail.webp"
     },
@@ -1093,7 +1093,7 @@
       "title": "iPhone 6",
       "price": 299.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp"
+        "./assets/images/product-images-smartphones-iphone-6-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp"
     },
@@ -1102,7 +1102,7 @@
       "title": "iPhone 13 Pro",
       "price": 1099.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp"
+        "./assets/images/product-images-smartphones-iphone-13-pro-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp"
     },
@@ -1111,7 +1111,7 @@
       "title": "iPhone X",
       "price": 899.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp"
+        "./assets/images/product-images-smartphones-iphone-x-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp"
     },
@@ -1120,7 +1120,7 @@
       "title": "Oppo A57",
       "price": 249.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp"
+        "./assets/images/product-images-smartphones-oppo-a57-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/thumbnail.webp"
     },
@@ -1129,7 +1129,7 @@
       "title": "Oppo F19 Pro Plus",
       "price": 399.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp"
+        "./assets/images/product-images-smartphones-oppo-f19-pro-plus-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/thumbnail.webp"
     },
@@ -1138,7 +1138,7 @@
       "title": "Oppo K1",
       "price": 299.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp"
+        "./assets/images/product-images-smartphones-oppo-k1-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp"
     },
@@ -1147,7 +1147,7 @@
       "title": "Realme C35",
       "price": 149.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp"
+        "./assets/images/product-images-smartphones-realme-c35-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/thumbnail.webp"
     },
@@ -1156,7 +1156,7 @@
       "title": "Realme X",
       "price": 299.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/realme-x/1.webp"
+        "./assets/images/product-images-smartphones-realme-x-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp"
     },
@@ -1165,7 +1165,7 @@
       "title": "Realme XT",
       "price": 349.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp"
+        "./assets/images/product-images-smartphones-realme-xt-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp"
     },
@@ -1174,7 +1174,7 @@
       "title": "Samsung Galaxy S7",
       "price": 299.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp"
+        "./assets/images/product-images-smartphones-samsung-galaxy-s7-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/thumbnail.webp"
     },
@@ -1183,7 +1183,7 @@
       "title": "Samsung Galaxy S8",
       "price": 499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp"
+        "./assets/images/product-images-smartphones-samsung-galaxy-s8-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp"
     },
@@ -1192,7 +1192,7 @@
       "title": "Samsung Galaxy S10",
       "price": 699.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp"
+        "./assets/images/product-images-smartphones-samsung-galaxy-s10-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp"
     },
@@ -1201,7 +1201,7 @@
       "title": "Vivo S1",
       "price": 249.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp"
+        "./assets/images/product-images-smartphones-vivo-s1-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/thumbnail.webp"
     },
@@ -1210,7 +1210,7 @@
       "title": "Vivo V9",
       "price": 299.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/1.webp"
+        "./assets/images/product-images-smartphones-vivo-v9-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/thumbnail.webp"
     },
@@ -1219,7 +1219,7 @@
       "title": "Vivo X21",
       "price": 499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp"
+        "./assets/images/product-images-smartphones-vivo-x21-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp"
     },
@@ -1228,7 +1228,7 @@
       "title": "American Football",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
+        "./assets/images/product-images-sports-accessories-american-football-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp"
     },
@@ -1237,7 +1237,7 @@
       "title": "Baseball Ball",
       "price": 8.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp"
+        "./assets/images/product-images-sports-accessories-baseball-ball-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp"
     },
@@ -1246,7 +1246,7 @@
       "title": "Baseball Glove",
       "price": 24.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp"
+        "./assets/images/product-images-sports-accessories-baseball-glove-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp"
     },
@@ -1255,7 +1255,7 @@
       "title": "Basketball",
       "price": 14.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
+        "./assets/images/product-images-sports-accessories-basketball-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp"
     },
@@ -1264,7 +1264,7 @@
       "title": "Basketball Rim",
       "price": 39.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
+        "./assets/images/product-images-sports-accessories-basketball-rim-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp"
     },
@@ -1273,7 +1273,7 @@
       "title": "Cricket Ball",
       "price": 12.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp"
+        "./assets/images/product-images-sports-accessories-cricket-ball-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp"
     },
@@ -1282,7 +1282,7 @@
       "title": "Cricket Bat",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp"
+        "./assets/images/product-images-sports-accessories-cricket-bat-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp"
     },
@@ -1291,7 +1291,7 @@
       "title": "Cricket Helmet",
       "price": 44.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/1.webp"
+        "./assets/images/product-images-sports-accessories-cricket-helmet-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
     },
@@ -1300,7 +1300,7 @@
       "title": "Cricket Wicket",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp"
+        "./assets/images/product-images-sports-accessories-cricket-wicket-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/thumbnail.webp"
     },
@@ -1309,7 +1309,7 @@
       "title": "Feather Shuttlecock",
       "price": 5.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp"
+        "./assets/images/product-images-sports-accessories-feather-shuttlecock-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/thumbnail.webp"
     },
@@ -1318,7 +1318,7 @@
       "title": "Football",
       "price": 17.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp"
+        "./assets/images/product-images-sports-accessories-football-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/football/thumbnail.webp"
     },
@@ -1327,7 +1327,7 @@
       "title": "Golf Ball",
       "price": 9.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp"
+        "./assets/images/product-images-sports-accessories-golf-ball-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/thumbnail.webp"
     },
@@ -1336,7 +1336,7 @@
       "title": "Iron Golf",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"
+        "./assets/images/product-images-sports-accessories-iron-golf-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/thumbnail.webp"
     },
@@ -1345,7 +1345,7 @@
       "title": "Metal Baseball Bat",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"
+        "./assets/images/product-images-sports-accessories-metal-baseball-bat-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp"
     },
@@ -1354,7 +1354,7 @@
       "title": "Tennis Ball",
       "price": 6.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"
+        "./assets/images/product-images-sports-accessories-tennis-ball-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/thumbnail.webp"
     },
@@ -1363,7 +1363,7 @@
       "title": "Tennis Racket",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"
+        "./assets/images/product-images-sports-accessories-tennis-racket-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp"
     },
@@ -1372,7 +1372,7 @@
       "title": "Volleyball",
       "price": 11.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/1.webp"
+        "./assets/images/product-images-sports-accessories-volleyball-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/thumbnail.webp"
     },
@@ -1381,7 +1381,7 @@
       "title": "Black Sun Glasses",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp"
+        "./assets/images/product-images-sunglasses-black-sun-glasses-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp"
     },
@@ -1390,7 +1390,7 @@
       "title": "Classic Sun Glasses",
       "price": 24.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp"
+        "./assets/images/product-images-sunglasses-classic-sun-glasses-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp"
     },
@@ -1399,7 +1399,7 @@
       "title": "Green and Black Glasses",
       "price": 34.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp"
+        "./assets/images/product-images-sunglasses-green-and-black-glasses-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp"
     },
@@ -1408,7 +1408,7 @@
       "title": "Party Glasses",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/1.webp"
+        "./assets/images/product-images-sunglasses-party-glasses-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp"
     },
@@ -1417,7 +1417,7 @@
       "title": "Sunglasses",
       "price": 22.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/1.webp"
+        "./assets/images/product-images-sunglasses-sunglasses-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp"
     },
@@ -1426,7 +1426,7 @@
       "title": "iPad Mini 2021 Starlight",
       "price": 499.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp"
+        "./assets/images/product-images-tablets-ipad-mini-2021-starlight-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp"
     },
@@ -1435,7 +1435,7 @@
       "title": "Samsung Galaxy Tab S8 Plus Grey",
       "price": 599.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp"
+        "./assets/images/product-images-tablets-samsung-galaxy-tab-s8-plus-grey-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp"
     },
@@ -1444,7 +1444,7 @@
       "title": "Samsung Galaxy Tab White",
       "price": 349.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp"
+        "./assets/images/product-images-tablets-samsung-galaxy-tab-white-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp"
     },
@@ -1453,7 +1453,7 @@
       "title": "Blue Frock",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp"
+        "./assets/images/product-images-tops-blue-frock-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp"
     },
@@ -1462,7 +1462,7 @@
       "title": "Girl Summer Dress",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/1.webp"
+        "./assets/images/product-images-tops-girl-summer-dress-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/thumbnail.webp"
     },
@@ -1471,7 +1471,7 @@
       "title": "Gray Dress",
       "price": 34.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/tops/gray-dress/1.webp"
+        "./assets/images/product-images-tops-gray-dress-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/tops/gray-dress/thumbnail.webp"
     },
@@ -1480,7 +1480,7 @@
       "title": "Short Frock",
       "price": 24.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/tops/short-frock/1.webp"
+        "./assets/images/product-images-tops-short-frock-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/tops/short-frock/thumbnail.webp"
     },
@@ -1489,7 +1489,7 @@
       "title": "Tartan Dress",
       "price": 39.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/tops/tartan-dress/1.webp"
+        "./assets/images/product-images-tops-tartan-dress-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/thumbnail.webp"
     },
@@ -1498,7 +1498,7 @@
       "title": "300 Touring",
       "price": 28999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/vehicle/300-touring/1.webp"
+        "./assets/images/product-images-vehicle-300-touring-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/thumbnail.webp"
     },
@@ -1507,7 +1507,7 @@
       "title": "Charger SXT RWD",
       "price": 32999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/1.webp"
+        "./assets/images/product-images-vehicle-charger-sxt-rwd-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/thumbnail.webp"
     },
@@ -1516,7 +1516,7 @@
       "title": "Dodge Hornet GT Plus",
       "price": 24999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/1.webp"
+        "./assets/images/product-images-vehicle-dodge-hornet-gt-plus-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/thumbnail.webp"
     },
@@ -1525,7 +1525,7 @@
       "title": "Durango SXT RWD",
       "price": 36999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/1.webp"
+        "./assets/images/product-images-vehicle-durango-sxt-rwd-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/thumbnail.webp"
     },
@@ -1534,7 +1534,7 @@
       "title": "Pacifica Touring",
       "price": 31999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/1.webp"
+        "./assets/images/product-images-vehicle-pacifica-touring-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/thumbnail.webp"
     },
@@ -1543,7 +1543,7 @@
       "title": "Blue Women's Handbag",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp"
+        "./assets/images/product-images-womens-bags-blue-women's-handbag-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/thumbnail.webp"
     },
@@ -1552,7 +1552,7 @@
       "title": "Heshe Women's Leather Bag",
       "price": 129.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/1.webp"
+        "./assets/images/product-images-womens-bags-heshe-women's-leather-bag-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/thumbnail.webp"
     },
@@ -1561,7 +1561,7 @@
       "title": "Prada Women Bag",
       "price": 599.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp"
+        "./assets/images/product-images-womens-bags-prada-women-bag-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/thumbnail.webp"
     },
@@ -1570,7 +1570,7 @@
       "title": "White Faux Leather Backpack",
       "price": 39.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp"
+        "./assets/images/product-images-womens-bags-white-faux-leather-backpack-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/thumbnail.webp"
     },
@@ -1579,7 +1579,7 @@
       "title": "Women Handbag Black",
       "price": 59.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/1.webp"
+        "./assets/images/product-images-womens-bags-women-handbag-black-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/thumbnail.webp"
     },
@@ -1588,7 +1588,7 @@
       "title": "Black Women's Gown",
       "price": 129.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/1.webp"
+        "./assets/images/product-images-womens-dresses-black-women's-gown-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/thumbnail.webp"
     },
@@ -1597,7 +1597,7 @@
       "title": "Corset Leather With Skirt",
       "price": 89.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/1.webp"
+        "./assets/images/product-images-womens-dresses-corset-leather-with-skirt-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/thumbnail.webp"
     },
@@ -1606,7 +1606,7 @@
       "title": "Corset With Black Skirt",
       "price": 79.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/1.webp"
+        "./assets/images/product-images-womens-dresses-corset-with-black-skirt-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/thumbnail.webp"
     },
@@ -1615,7 +1615,7 @@
       "title": "Dress Pea",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp"
+        "./assets/images/product-images-womens-dresses-dress-pea-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/thumbnail.webp"
     },
@@ -1624,7 +1624,7 @@
       "title": "Marni Red & Black Suit",
       "price": 179.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/1.webp"
+        "./assets/images/product-images-womens-dresses-marni-red-&-black-suit-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/thumbnail.webp"
     },
@@ -1633,7 +1633,7 @@
       "title": "Green Crystal Earring",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp"
+        "./assets/images/product-images-womens-jewellery-green-crystal-earring-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/thumbnail.webp"
     },
@@ -1642,7 +1642,7 @@
       "title": "Green Oval Earring",
       "price": 24.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/1.webp"
+        "./assets/images/product-images-womens-jewellery-green-oval-earring-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/thumbnail.webp"
     },
@@ -1651,7 +1651,7 @@
       "title": "Tropical Earring",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/1.webp"
+        "./assets/images/product-images-womens-jewellery-tropical-earring-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/thumbnail.webp"
     },
@@ -1660,7 +1660,7 @@
       "title": "Black & Brown Slipper",
       "price": 19.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/1.webp"
+        "./assets/images/product-images-womens-shoes-black-&-brown-slipper-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/thumbnail.webp"
     },
@@ -1669,7 +1669,7 @@
       "title": "Calvin Klein Heel Shoes",
       "price": 79.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp"
+        "./assets/images/product-images-womens-shoes-calvin-klein-heel-shoes-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/thumbnail.webp"
     },
@@ -1678,7 +1678,7 @@
       "title": "Golden Shoes Woman",
       "price": 49.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/1.webp"
+        "./assets/images/product-images-womens-shoes-golden-shoes-woman-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/thumbnail.webp"
     },
@@ -1687,7 +1687,7 @@
       "title": "Pampi Shoes",
       "price": 29.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/1.webp"
+        "./assets/images/product-images-womens-shoes-pampi-shoes-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/thumbnail.webp"
     },
@@ -1696,7 +1696,7 @@
       "title": "Red Shoes",
       "price": 34.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/1.webp"
+        "./assets/images/product-images-womens-shoes-red-shoes-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/thumbnail.webp"
     },
@@ -1705,7 +1705,7 @@
       "title": "IWC Ingenieur Automatic Steel",
       "price": 4999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/1.webp"
+        "./assets/images/product-images-womens-watches-iwc-ingenieur-automatic-steel-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/thumbnail.webp"
     },
@@ -1714,7 +1714,7 @@
       "title": "Rolex Cellini Moonphase",
       "price": 15999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/1.webp"
+        "./assets/images/product-images-womens-watches-rolex-cellini-moonphase-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/thumbnail.webp"
     },
@@ -1723,7 +1723,7 @@
       "title": "Rolex Datejust Women",
       "price": 10999.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp"
+        "./assets/images/product-images-womens-watches-rolex-datejust-women-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/thumbnail.webp"
     },
@@ -1732,7 +1732,7 @@
       "title": "Watch Gold for Women",
       "price": 799.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/1.webp"
+        "./assets/images/product-images-womens-watches-watch-gold-for-women-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/thumbnail.webp"
     },
@@ -1741,7 +1741,7 @@
       "title": "Women's Wrist Watch",
       "price": 129.99,
       "images": [
-        "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/1.webp"
+        "./assets/images/product-images-womens-watches-women's-wrist-watch-1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/thumbnail.webp"
     }

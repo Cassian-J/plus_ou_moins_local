@@ -6,7 +6,7 @@ import 'product_source.dart';
 class ApiProductSource implements ProductSource {
   @override
   Future<List<Product>> loadProducts() async {
-    final url = Uri.parse('https://dummyjson.com/products?limit=0&select=id,title,price,thumbnail');
+    final url = Uri.parse('https://dummyjson.com/products?limit=0&select=id,title,price,images');
 
     final response = await http.get(url);
 
